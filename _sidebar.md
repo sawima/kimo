@@ -1,4 +1,5 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
-* [Guide](guide.md)
+* [api](/docs/api.md)
+* [demos](/docs/demos.md)
