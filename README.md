@@ -1,1 +1,3 @@
-# kimo
+# Headline
+
+> An awesome project.
