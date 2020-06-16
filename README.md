@@ -1,3 +1,3 @@
 # Headline kimo
 
-> An awesome project.
+> project with documentation
